@@ -5,7 +5,7 @@
 ## 上課地點：臺大博雅202
 ## 上課時間：星期五 2,3,4
 ## A6:量化分析與數學素養 
-### 課程進度 
+### 課程進度：
 #### 第1週	9/24	Getting started with Python. 
 #### 第2週	10/01	Functions and data types. 
 #### 第3週	10/08	Data structures. 
