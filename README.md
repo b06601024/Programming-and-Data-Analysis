@@ -24,3 +24,13 @@
 #### 第16週	1/07	Reading period. 
 #### 第17週	1/14	Final. 
 #### 第18週	1/21	No class. 
+
+## 作業批改系統
+#### 1	Assignment 1	10%	https://mybinder.org/v2/gh/datainpoint/asgmt-1-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 2	Assignment 2	10%	https://mybinder.org/v2/gh/datainpoint/asgmt-2-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 3	Assignment 3	10%	https://mybinder.org/v2/gh/datainpoint/asgmt-3-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 4	  Midterm	    20%	https://mybinder.org/v2/gh/datainpoint/midterm-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 5	Assignment 4	10%	https://mybinder.org/v2/gh/datainpoint/asgmt-4-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 6	Assignment 5	10%	https://mybinder.org/v2/gh/datainpoint/asgmt-5-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 7  Assignment 6  10% https://mybinder.org/v2/gh/datainpoint/asgmt-6-programming-and-data-analysis-ntu-fall-2021/HEAD
+#### 8     Final      20%
