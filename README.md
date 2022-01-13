@@ -1,10 +1,10 @@
 # 程式設計與資料分析 Programming-and-Data-Analysis
-## 授課老師：郭耀仁
+## 授課老師：郭耀仁 TONY YAO-JEN KUO
 ### https://github.com/datainpoint
 ## 學期：110-1
 ## 上課地點：臺大博雅202
-## 上課時間：星期五 2,3,4
-## A6:量化分析與數學素養 
+## 上課時間：星期五 2,3,4 (9:10~12:10)
+## A6:量化分析與數學素養 Quantitative Analysis and Mathematics
 ### 課程進度：
 #### 第1週	9/24	Getting started with Python. 
 #### 第2週	10/01	Functions and data types. 
